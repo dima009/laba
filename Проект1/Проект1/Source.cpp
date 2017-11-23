@@ -12,7 +12,7 @@ int main()
 	if (name == "Dmitry") cout << "Hello Dmitry" << endl;
 	else if (name == "Roman") cout << "Hello Roman" << endl;
 	else if (name == "Kol9") cout << "Hello Kol9" << endl;
-	else if (name == "Vlad") cout << "Hello Vlad" << endl;
+
 	else cout << "Hello User" << endl;
 
 	system("pause"); 
